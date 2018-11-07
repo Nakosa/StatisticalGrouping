@@ -1,0 +1,10 @@
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\bin\Debug\Grouping.exe.config
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\bin\Debug\Grouping.exe
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\bin\Debug\Grouping.pdb
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\obj\Debug\Grouping.csprojAssemblyReference.cache
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\obj\Debug\Grouping.Form1.resources
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\obj\Debug\Grouping.Properties.Resources.resources
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\obj\Debug\Grouping.csproj.GenerateResource.cache
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\obj\Debug\Grouping.csproj.CoreCompileInputs.cache
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\obj\Debug\Grouping.exe
+C:\Users\ZH\Desktop\Группировка\Grouping\Grouping\obj\Debug\Grouping.pdb
